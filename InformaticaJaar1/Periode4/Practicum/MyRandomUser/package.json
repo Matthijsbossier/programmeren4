@@ -5,7 +5,7 @@
 
  "main": "./InformaticaJaar1/Periode4/Practicum/MyRandomUser/myrandomuser.js",
  "scripts": {
- "start": "node ./InformaticaJaar1/Periode4/Practicum/MyRandomUser/myrandomuser.js"
+ "start": "node myrandomuser.js"
  },
 
   "author": "Matthijs",
