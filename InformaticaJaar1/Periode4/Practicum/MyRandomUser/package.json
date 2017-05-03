@@ -2,10 +2,17 @@
   "name": "myrandomuser",
   "version": "1.0.0",
   "description": "Random User Generator REST API in Node.js",
+
+ "main": "./InformaticaJaar1/Periode4/Practicum/MyRandomUser/myrandomuser.js",
+ "scripts": {
+ "start": "node ./InformaticaJaar1/Periode4/Practicum/MyRandomUser/myrandomuser.js"
+ },
+
+/*
   "main": "myrandomuser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  }, */
   "author": "Matthijs",
   "license": "ISC",
   "dependencies": {
